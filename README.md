@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Rai</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FFF&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Aspiring+Full+Stack+Developer;Always+Learning+New+Things;Machine+Learning;Artificial+Intelligence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70F66FF&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student+💻;Aspiring+Full+Stack+Developer;Always+Learning+New+Things;Machine+learning+⚙️;Artificial+Intelligence+🤖" alt="Typing SVG" />
 </p>
-
 
 <h2 align="left">Connect with me:</h2>
 <p align="center">
@@ -39,6 +38,6 @@
 ---
 
 ## Github Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushrai1235&show_icons=true&locale=en&layout=compact" alt="ayushrai1235" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushrai1235&show_icons=true&locale=en&layout=compact" alt="ayushrai1235" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushrai1235&show_icons=true&locale=en" alt="ayushrai1235" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushrai1235&" alt="ayushrai1235" /></p>
