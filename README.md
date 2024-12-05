@@ -25,7 +25,7 @@
 
 - ReEarth is an innovative web application poised to transform waste management into a more efficient, sustainable, and user-friendly experience
 
-### [Face Recognition App](https://github.com/ayushrai1235/Face-Attendence)
+### [RealTime Attendance App](https://github.com/ayushrai1235/Face-Attendence)
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
