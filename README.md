@@ -40,7 +40,15 @@
 ### [Brieflyst](https://github.com/ayushrai1235/YOUTUBE-SUMMARY-GENERATOR)
 <p>
   <img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src = "https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
+   <img src = "https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask" />
+  <img src = "https://img.shields.io/badge/JSON-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
 </p>
+
+- Summarizes YouTube videos in seconds using the cutting-edge Google Gemini API.
+- Automatically fetches the video URL from the current tab for a seamless user experience.
+
+---
 
 <h2 align="left">⚡ Stats ⚡</h2>
 <br>
