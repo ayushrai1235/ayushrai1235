@@ -35,7 +35,6 @@
 
 - Real time face Attendence system which recognize the user face save its data in a realtime database including the time at which the user have taken the Attendance.
 
----
 
 ### [Brieflyst](https://github.com/ayushrai1235/YOUTUBE-SUMMARY-GENERATOR)
 <p>
