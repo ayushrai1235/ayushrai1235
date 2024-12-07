@@ -37,7 +37,10 @@
 
 ---
 
-### [Brieflyst](https://github.com/ayushrai1235/YOUTUBE_SUMMARY_GENERATOR)
+### [Brieflyst](https://github.com/ayushrai1235/YOUTUBE-SUMMARY-GENERATOR)
+<p>
+  <img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
 <h2 align="left">⚡ Stats ⚡</h2>
 <br>
