@@ -37,6 +37,8 @@
 
 ---
 
+### [Brieflyst](https://github.com/ayushrai1235/YOUTUBE_SUMMARY_GENERATOR)
+
 <h2 align="left">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
