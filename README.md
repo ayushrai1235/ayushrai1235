@@ -44,7 +44,7 @@
   <img src = "https://img.shields.io/badge/JSON-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
 </p>
 
-- Summarizes YouTube videos in seconds using the cutting-edge Google Gemini API.
+- It is an Chrome Extension that Summarizes YouTube videos in seconds using the cutting-edge Google Gemini API.
 - Automatically fetches the video URL from the current tab for a seamless user experience.
 
 ---
