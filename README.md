@@ -1,4 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ayush Rai</h1>
+
+<h1>
+  Hi 👋, I'm Ayush Rai
+  <img align="right" src="https://media.licdn.com/dms/image/v2/D4E03AQEVKr7Vl7BPtw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1728626729928?e=1740614400&v=beta&t=xKg0C1sAHWM9Eg8-VN0k9CYtjkAuOd7fy0G-CXaKtoc" 
+       alt="my face" 
+       width="150" 
+       style="margin-left: 100px; vertical-align: middle; border-radius: 50%;" />
+</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70F66FF&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student+💻;Aspiring+Full+Stack+Developer;Always+Learning+New+Things;Machine+learning+⚙️;Artificial+Intelligence+🤖" alt="Typing SVG" />
 </p>
