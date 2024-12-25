@@ -61,7 +61,7 @@
 </div>
 
 ---
-
+<h2 align="left">⚡Github Snake ⚡</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayushrai1235/ayushrai1235/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayushrai1235/ayushrai1235/output/github-snake.svg" />
