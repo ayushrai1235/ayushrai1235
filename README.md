@@ -49,11 +49,7 @@
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayushrai1235/ayushrai1235/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayushrai1235/ayushrai1235/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ayushrai1235/ayushrai1235/output/github-snake.svg" />
-</picture>
+
 
 <h2 align="left">⚡ Stats ⚡</h2>
 <br>
@@ -63,3 +59,11 @@
   <br/>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushrai1235&count_private=true&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayushrai1235/ayushrai1235/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayushrai1235/ayushrai1235/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ayushrai1235/ayushrai1235/output/github-snake.svg" />
+</picture>
