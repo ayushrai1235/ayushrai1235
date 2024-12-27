@@ -1,7 +1,7 @@
 
 <h1>
   Hi 👋, I'm Ayush Rai
-  <img align="right" src="https://media.licdn.com/dms/image/v2/D4E03AQEVKr7Vl7BPtw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1728626729928?e=1740614400&v=beta&t=xKg0C1sAHWM9Eg8-VN0k9CYtjkAuOd7fy0G-CXaKtoc" 
+  <img align="right" src="./My face.jpeg" 
        alt="my face" 
        width="150" 
        style="margin-left: 100px; vertical-align: middle; border-radius: 50%;" />
