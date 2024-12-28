@@ -1,10 +1,6 @@
 
-<h1>
+<h1 align="center">
   Hi 👋, I'm Ayush Rai
-  <img align="right" src="./My face.jpeg" 
-       alt="my face" 
-       width="150" 
-       style="margin-left: 100px; vertical-align: middle; border-radius: 50%;" />
 </h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70F66FF&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student+💻;Aspiring+Full+Stack+Developer;Always+Learning+New+Things;Machine+learning+⚙️;Artificial+Intelligence+🤖" alt="Typing SVG" />
