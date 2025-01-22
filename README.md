@@ -39,7 +39,19 @@
 - Real time face Attendence system which recognize the user face save its data in a realtime database including the time at which the user have taken the Attendance.
 
 
-### [Brieflyst](https://github.com/ayushrai1235/YOUTUBE-SUMMARY-GENERATOR)
+### [Sentilytics](https://github.com/LarytheLord/mood-tracker)
+
+![PYTHON](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![STREAMLIT](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![TEXTBLOB](https://img.shields.io/badge/-TextBlob-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+
+- **Sentilytics** is a sentiment analysis-based project to help users track their moods. 
+- The project currently uses **TextBlob** to analyze user input and predict their mood. 
+- Future plans include analyzing Twitter and Instagram posts to determine the user’s mood for the day using **Twitter API** and **Instagram Graph API**.
+
+
+
+ ### [Brieflyst](https://github.com/ayushrai1235/YOUTUBE-SUMMARY-GENERATOR)
 <p>
   <img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src = "https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
