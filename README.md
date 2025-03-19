@@ -62,6 +62,21 @@
 - It is an Chrome Extension that Summarizes YouTube videos in seconds using the cutting-edge Google Gemini API.
 - Automatically fetches the video URL from the current tab for a seamless user experience.
 
+
+
+### [Full Stack Task Manager App](https://github.com/ayushrai1235/Full-Stack-Task-Manager-)
+<p>
+   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+
+- This is a Full-Stack Task Manager App built using the MERN stack.
+- It allows users to create, manage, and track tasks efficiently. 
+- The application includes user authentication, task categorization, and a user-friendly interface powered by React and Redux Toolkit.
+</p>
+
 ---
 
 
