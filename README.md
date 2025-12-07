@@ -93,7 +93,7 @@ A fast-growing, gamified learning community helping developers upskill through s
 ### 🌑 LunaBot – Autonomous Lunar Habitat Robot (NASA Space Apps 2025)  
 **ROS2 • Webots • Python • React Dashboard**  
 An autonomous navigation and monitoring robot built for lunar habitats with SLAM, multi-sensor fusion, AI decision-making, and a real-time dashboard. Developed for NASA Space Apps Challenge 2025.  
-[🔗 Repository](https://github.com/LarytheLord/Civilization-in-Space-Nasa-Space-App-Challenge)
+[🔗 Repository](https://github.com/ayushrai1235/Civilization-in-Space-Nasa-Space-App-Challenge)
 
 ---
 
