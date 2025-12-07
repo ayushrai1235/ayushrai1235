@@ -3,7 +3,7 @@
   Hi 👋, I'm Ayush Rai
 </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70F66FF&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student+💻;Aspiring+Full+Stack+Developer;Always+Learning+New+Things;Machine+learning+⚙️;Artificial+Intelligence+🤖" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70F66FF&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student+💻;Full+Stack+Developer;Always+Learning+New+Things;Machine+learning+⚙️;Artificial+Intelligence+🤖" alt="Typing SVG" />
 </p>
 
 <h2 align="left">🔗 Connect with me:</h2>
