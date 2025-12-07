@@ -1,8 +1,7 @@
-<h1 align="center">Hi, I'm Ayush Rai 👋</h1>
-<h3 align="center">
-  Full-Stack Developer • AI/ML Engineer • GenAI Practitioner  
-  <br/>Co-Founder of Adventurer Guild (500+ Users)
-</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ayushrai1235/ayushrai1235/main/banner.png" alt="Ayush Rai Banner" width="50%" />
+</p>
+
 
 <p align="center">
 I build intelligent systems, scalable full-stack products, and automation-driven solutions.  
