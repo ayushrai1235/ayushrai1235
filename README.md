@@ -1,8 +1,10 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ayushrai1235/ayushrai1235/main/banner.png" alt="Ayush Rai Banner" width="50%" />
+# Hey there! 👋 I'm Ayush Rai
+
+<h2 align="center">
+  <p>Full-Stack Developer • AI/ML Engineer • GenAI Practitioner</p>
+  <p>Co-Founder of Adventurer Guild • President of Coding Club
 </p>
-
-
+</h2> 
 <p align="center">
 I build intelligent systems, scalable full-stack products, and automation-driven solutions.  
 Focused on transforming ideas into polished, production-ready experiences.
@@ -30,16 +32,39 @@ Focused on transforming ideas into polished, production-ready experiences.
 <p align="center">
 
 **Languages**  
-<img src="https://skillicons.dev/icons?i=python,js,c,cpp,java&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,ts,js,c,cpp,java&theme=dark" />
 
 **Frontend**  
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=threejs,nextjs,react,tailwind,html,css&theme=dark" />
 
 **Backend & Databases**  
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql,supabase&theme=dark" />
 
-**AI / ML / GenAI & Tools**  
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,git,figma&theme=dark" />
+**Cloud & Deployment**
+<p>
+  <!-- Vercel -->
+  <img height="48" src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Vercel" />
+
+  <!-- Netlify -->
+  <img height="48" src="https://skillicons.dev/icons?i=netlify&theme=dark" alt="Netlify" />
+
+  <!-- AWS -->
+  <img height="48" src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" />
+
+</p>
+
+
+ **AI / ML / GenAI & Tools**
+<p>
+  <!-- Skillicons (automatic styling) -->
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,git,figma&theme=dark" />
+
+  <!-- Additional tools (matched height to skillicons = 48px) -->
+  <img height="48" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" alt="scikit-learn" />
+  <img height="48" src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" alt="n8n" />
+</p>
+
+
 </p>
 
 ---
@@ -64,17 +89,19 @@ A fast-growing, gamified learning community helping developers upskill through s
 
 ## 🚀 Featured Projects
 
-### 🌍 ReEarth – Smart Waste Management Platform  
-**Node.js • React • Three.js • Firebase**  
-A sustainability-focused platform that uses interactive 3D visualization to improve waste management workflows.  
-[🔗 Repository](https://github.com/LarytheLord/Uprecycle-Market)
-
----
 
 ### 🌑 LunaBot – Autonomous Lunar Habitat Robot (NASA Space Apps 2025)  
 **ROS2 • Webots • Python • React Dashboard**  
 An autonomous navigation and monitoring robot built for lunar habitats with SLAM, multi-sensor fusion, AI decision-making, and a real-time dashboard. Developed for NASA Space Apps Challenge 2025.  
 [🔗 Repository](https://github.com/LarytheLord/Civilization-in-Space-Nasa-Space-App-Challenge)
+
+---
+
+
+### 🌍 ReEarth – Smart Waste Management Platform  
+**Node.js • React • Three.js • Firebase**  
+A sustainability-focused platform that uses interactive 3D visualization to improve waste management workflows.  
+[🔗 Repository](https://github.com/LarytheLord/Uprecycle-Market)
 
 ---
 
