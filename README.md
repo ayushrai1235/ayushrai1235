@@ -1,14 +1,21 @@
-# Hey there! 👋 I'm Ayush Rai
-
-<h2 align="center">
-  <p>Full-Stack Developer • AI/ML Engineer • GenAI Practitioner</p>
-  <p>Co-Founder of Adventurer Guild • President of Coding Club
-</p>
-</h2> 
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=1,2,4,5,40&height=250&section=header&text=Ayush%20Rai&fontSize=65&animation=twinkling&fontAlignY=38&desc=Full‑Stack%20,%20%20MERN+Stack%20Developer%20,%20AI/ML%20Engineer%20GenAI%20Practitioner&descAlignY=62&font=Fira%20Code&descFont=Roboto&textColor=FF4500&descColor=00FF7F&borderRadius=25"
+    width="100%"
+    alt="Header Banner"
+  />
+ </div>
+ <div align="center">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=25&duration=3000&pause=1000&color=gradient&customColorList=0,4,4,8,30&center=true&vCenter=true&multiline=true&width=900&height=100&lines=BTech+Computer+Engineering+Student+%F0%9F%8E%93;Co-Founder+of+Adventurer+Guild+%E2%80%A2+President+of+Coding+Club;AI%2FML+Engineer+%E2%80%A2+Full-Stack+Developer"
+      alt="Typing SVG"
+    />
+</div>
 <p align="center">
-I build intelligent systems, scalable full-stack products, and automation-driven solutions.  
-Focused on transforming ideas into polished, production-ready experiences.
+  <b>I build intelligent systems, scalable full-stack products, and automation-driven solutions.<br>
+  Focused on transforming ideas into polished, production-ready experiences.</b>
 </p>
+
 
 ---
 
@@ -132,6 +139,13 @@ A complete task management system with authentication, category-based workflow, 
 [🔗 Repository](https://github.com/ayushrai1235/Full-Stack-Task-Manager-)
 
 ---
+
+  <h2 align="center">🏆 GitHub Achievement Showcase</h2>
+  <div align="center">
+    <img
+    src="https://github-profile-trophy.vercel.app/?username=ayushrai1235&theme=radical&margin-w=15&margin-h=15&column=4&no-frame=true&title=Stars,Commits,Followers,PullRequest,Issues,Repositories,MultiLanguage,Experience""
+    alt="Trophies" />
+  </div>
 
 ## 📊 GitHub Stats
 
