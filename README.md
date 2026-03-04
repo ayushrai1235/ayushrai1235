@@ -107,7 +107,7 @@ An autonomous navigation and monitoring robot built for lunar habitats with SLAM
 ### 🛡️ AI Moderation Chat App  
 **FastAPI • WebSockets • React • Google Gemini • Redis • Supabase • Cloudinary**  
 A real-time private messaging platform with AI-powered moderation that detects toxicity, hate speech, and unsafe images using Gemini 2.5 Flash. Features secure authentication, media sharing, and scalable backend infrastructure.  
-[🔗 Repository](https://github.com/ayushrai1235/)
+[🔗 Repository](https://github.com/ayushrai1235/Ai-Moderation-chat-app)
 
 ---
 ---
