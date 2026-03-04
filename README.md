@@ -107,14 +107,14 @@ An autonomous navigation and monitoring robot built for lunar habitats with SLAM
 ### 🐾 Animal Welfare Policy Monitoring System  
 **Python • FastAPI • React • Google Gemini • Web Scraping • Email Automation**  
 An AI-powered platform that monitors Indian government websites for animal welfare policy consultations and generates automated response drafts. Uses Gemini for relevance scoring and draft generation, with a real-time dashboard and email alerts for new policy updates.  
-[🔗 Repository](https://github.com/ayushrai1235/)
+[🔗 Repository](https://github.com/ayushrai1235/PublicPolicyWatch)
 
 ---
 
 ### 💊 MedRemind – Smart Medicine Reminder App  
 **React Native • JavaScript • Local Notifications • Mobile App**  
 A cross-platform medicine reminder app that helps users manage daily medications with scheduled alerts, pill tracking, and refill notifications. Works fully offline using local notifications and features a clean, user-friendly interface.  
-[🔗 Repository](https://github.com/ayushrai1235/)
+[🔗 Repository](https://github.com/ayushrai1235/MedRemind-)
 
 ---
 
