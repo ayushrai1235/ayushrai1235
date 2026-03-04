@@ -104,6 +104,22 @@ An autonomous navigation and monitoring robot built for lunar habitats with SLAM
 
 ---
 
+### 🛡️ AI Moderation Chat App  
+**FastAPI • WebSockets • React • Google Gemini • Redis • Supabase • Cloudinary**  
+A real-time private messaging platform with AI-powered moderation that detects toxicity, hate speech, and unsafe images using Gemini 2.5 Flash. Features secure authentication, media sharing, and scalable backend infrastructure.  
+[🔗 Repository](https://github.com/ayushrai1235/)
+
+---
+---
+
+### 🎬 Brieflyst – YouTube Summary Chrome Extension  
+**Python • Flask • JavaScript**  
+A Chrome extension that summarizes YouTube videos using Google Gemini, fetching the video URL directly from the active tab.  
+[🔗 Repository](https://github.com/ayushrai1235/YOUTUBE-SUMMARY-GENERATOR)
+
+---
+
+
 
 ### 🌍 ReEarth – Smart Waste Management Platform  
 **Node.js • React • Three.js • Firebase**  
@@ -124,14 +140,6 @@ A face-recognition-driven attendance app that stores user logs in real time thro
 A sentiment analysis tool for mood tracking with planned integration of Twitter and Instagram API pipelines.  
 [🔗 Repository](https://github.com/LarytheLord/mood-tracker)
 
----
-
-### 🎬 Brieflyst – YouTube Summary Chrome Extension  
-**Python • Flask • JavaScript**  
-A Chrome extension that summarizes YouTube videos using Google Gemini, fetching the video URL directly from the active tab.  
-[🔗 Repository](https://github.com/ayushrai1235/YOUTUBE-SUMMARY-GENERATOR)
-
----
 
 ### ✔ Full-Stack Task Manager  
 **MERN • Redux Toolkit**  
