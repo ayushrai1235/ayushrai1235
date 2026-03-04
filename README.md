@@ -104,12 +104,25 @@ An autonomous navigation and monitoring robot built for lunar habitats with SLAM
 
 ---
 
+### 🐾 Animal Welfare Policy Monitoring System  
+**Python • FastAPI • React • Google Gemini • Web Scraping • Email Automation**  
+An AI-powered platform that monitors Indian government websites for animal welfare policy consultations and generates automated response drafts. Uses Gemini for relevance scoring and draft generation, with a real-time dashboard and email alerts for new policy updates.  
+[🔗 Repository](https://github.com/ayushrai1235/)
+
+---
+
+### 💊 MedRemind – Smart Medicine Reminder App  
+**React Native • JavaScript • Local Notifications • Mobile App**  
+A cross-platform medicine reminder app that helps users manage daily medications with scheduled alerts, pill tracking, and refill notifications. Works fully offline using local notifications and features a clean, user-friendly interface.  
+[🔗 Repository](https://github.com/ayushrai1235/)
+
+---
+
 ### 🛡️ AI Moderation Chat App  
 **FastAPI • WebSockets • React • Google Gemini • Redis • Supabase • Cloudinary**  
 A real-time private messaging platform with AI-powered moderation that detects toxicity, hate speech, and unsafe images using Gemini 2.5 Flash. Features secure authentication, media sharing, and scalable backend infrastructure.  
 [🔗 Repository](https://github.com/ayushrai1235/Ai-Moderation-chat-app)
 
----
 ---
 
 ### 🎬 Brieflyst – YouTube Summary Chrome Extension  
@@ -118,8 +131,6 @@ A Chrome extension that summarizes YouTube videos using Google Gemini, fetching 
 [🔗 Repository](https://github.com/ayushrai1235/YOUTUBE-SUMMARY-GENERATOR)
 
 ---
-
-
 
 ### 🌍 ReEarth – Smart Waste Management Platform  
 **Node.js • React • Three.js • Firebase**  
