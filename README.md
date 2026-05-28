@@ -103,6 +103,11 @@ An autonomous navigation and monitoring robot built for lunar habitats with SLAM
 [🔗 Repository](https://github.com/ayushrai1235/Civilization-in-Space-Nasa-Space-App-Challenge)
 
 ---
+### ⚖️ FOIARTI Request Generator Dashboard & Workflow
+**FastAPI • React • Tailwind • Python • n8n • Google Sheets**
+A full-stack platform that automates the generation, dispatch, tracking, and follow-up of legally formatted FOIA/RTI requests across multiple jurisdictions. Features automated legal deadline calculation, real-time tracking dashboard, PDF/Excel export, and n8n-powered workflow automation for emails, reminders, and follow-ups.
+
+[🔗 Repository](https://github.com/ayushrai1235/)
 
 ### 🐾 Animal Welfare Policy Monitoring System  
 **Python • FastAPI • React • Google Gemini • Web Scraping • Email Automation**  
